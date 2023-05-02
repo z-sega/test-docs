@@ -1,0 +1,12 @@
+site_name: Test MK Docs
+
+nav:
+  - Home: 'index.md'
+  - Section A:
+    - One: 'section-a/item-1.md'
+    - Two: 'section-a/item-2.md'
+  - Section B:
+    - Three: 'section-b/item-3.md'
+    - Four: 'section-b/item-4.md'
+
+theme: readthedocs
